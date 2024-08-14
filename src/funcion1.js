@@ -1,0 +1,3 @@
+function valorLavadora(tamaño,cantidad){
+    
+}
